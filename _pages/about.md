@@ -171,7 +171,7 @@ For more papers, please kindly refer to [my Google Scholar page](https://scholar
 <span class='anchor' id='funding'></span>
 
 # <font color="#2B6ADD"> Research Projects: </font>
-+ **Hosted over 10 scientific research projects with a total research budget exceeding 5 million RMB, some of which are as follows::**
++ **Hosted over 10 scientific research projects with a total research budget exceeding 5 million RMB, some of which are as follows:**
   - 2025–2028, PI, Research on Multi-source Visual Data Collaborative Representation and Evaluation Methods for Human–Machine Hybrid Task Requirements, National Natural Science Foundation of China (General Program, Grant No.62471263), ¥510,000, Ongoing
   - 2021–2024, PI, Research on Stereoscopic Panoramic Video Quality Assessment and Enhancement for User Visual Experience, National Natural Science Foundation of China (General Program, Grant No.62071261), ¥540,000, Completed
   - 2017–2019, PI, 3D Video Signal Processing and Evaluation, National Science Fund for Excellent Young Scholars (Grant No.61622109), ¥1,500,000, Completed
