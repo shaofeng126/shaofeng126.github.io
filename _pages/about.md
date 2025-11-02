@@ -99,7 +99,6 @@ Artificial Intelligence Applications
       </td>
   </tr>
 </table>
-<b>Image quality assessment</b>
 <table align="center" border="none">
   <tr>
       <td>
@@ -171,24 +170,6 @@ Artificial Intelligence Applications
 
 For more papers, please kindly refer to [my Google Scholar page](https://scholar.google.com/citations?hl=zh-CN&user=n0xnWAoAAAAJ).
 
-<!--<span class='anchor' id='ha'></span>
-
-# <font color="#2B6ADD"> Honors and Awards </font>
-- 2022 Distinguished Reviewer of IEEE TMI
-- 2022 Outstanding Reviewer of IEEE TNNLS
-- 2022 National Science Fund for Excellent Young Scholars by NSFC (国家优秀青年基金)
-- 2021 Jiangsu Province Science Fund for Outstanding Young Scholars (江苏省杰出青年科学基金)
-- 2017 CCF-Tencent Open Fund
-- 2017 Excellent Doctoral Dissertation of CAAI (中国人工智能学会优博)
-- 2017 Excellent Doctoral Dissertation of Jiangsu Province, China
-- 2017 Excellent Doctoral Dissertation of Jiangsu Computer Society, China
-- 2017 Excellent Doctoral Dissertation of Nanjing University of Science and Technology, China
-- 2016 Best Student Paper in MMM 2016
-- 2015 Best Paper Runner-up in ACM Multimedia 2015
-- 2015 China National Scholarship
-- 2015 ACM MM 2015 Travel Grant
--->
-
 <span class='anchor' id='funding'></span>
 
 # <font color="#2B6ADD"> Research Projects: </font>
@@ -214,6 +195,3 @@ For more papers, please kindly refer to [my Google Scholar page](https://scholar
   - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
   - IEEE Transactions on Circuits Systems for Video Technology (TCSVT)
   - IEEE Transactions on Multimedia (TMM)
-
-  
-
