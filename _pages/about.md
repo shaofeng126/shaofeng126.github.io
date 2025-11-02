@@ -89,7 +89,89 @@ Artificial Intelligence Applications
     </td>
   </tr>
 
-  <!-- 省略其余项，按相同格式补充 -->
+ <tr>
+      <td>
+        <img align="left" width="700" height="400" src="../images/04_TIM.png"/>
+      </td>
+      <td>
+        <p style="text-align: justify">
+        Zhentao He, <b>Feng Shao</b>, Gang Chen, Xiongli Chai, Yo-Sung Ho. SCFANet: Semantics and Context Feature Aggregation Network for 360° Salient Object Detection, IEEE Transactions on Multimedia, vol. 26, pp. 2276-2288, Feb. 2024.
+        <a href="https://ieeexplore.ieee.org/document/10179183">[Paper-Link]</a>
+        </p>
+      </td>
+  </tr>
+  <tr>
+      <td>
+        <img align="left" width="700" height="400" src="../images/05_TMM.png"/>
+      </td>
+      <td>
+        <p style="text-align: justify">
+        Jiangli Shi, <b>Feng Shao</b>, Chongzhen Tian, Hangwei Chen, Long Xu, Yo-Sung Ho. Progressive Bidirectional Feature Extraction and Enhancement Network for Quality Evaluation of Night-time Images, IEEE Transactions on Multimedia, vol. 26, pp. 1690-1705, Jan. 2024.
+        <a href="https://ieeexplore.ieee.org/abstract/document/10148826">[Paper-Link]</a>
+        </p>
+      </td>
+  </tr>
+  
+  <tr>
+      <td>
+        <img align="left" width="700" height="400" src="../images/06_TMM.png"/>
+      </td>
+      <td>
+        <p style="text-align: justify">
+       Xiongli Chai, <b>Feng Shao</b>, Qiuping Jiang, Xuejin Wang, Long Xu, Yo-Sung Ho. Blind Quality Evaluator of Light Field Images by Group-Based Representations and Multiple Plane-Oriented Perceptual Characteristics, IEEE Transactions on Multimedia, vol. 26, pp. 607-622, Jan. 2024. 
+        <a href="https://ieeexplore.ieee.org/document/10105489/">[Paper-Link]</a>
+        </p>
+      </td>
+  </tr>
+  
+  <tr>
+      <td>
+        <img align="left" width="700" height="400" src="../images/07_TGRS.png"/>
+      </td>
+      <td>
+        <p style="text-align: justify">
+        Jinghui Li, <b>Feng Shao</b>, Xiangchao Meng, and Zhiwei Yang. Dual-Branch Cross-Resolution Interaction Learning Network for Change Detection at Different Resolutions, IEEE Transactions on Geoscience and Remote Sensing, vol. 63, article no. 4600116, Jan. 2025.
+        <a href="ieeexplore.ieee.org/abstract/document/10816435/">[Paper-Link]</a>
+        </p>
+      </td>
+  </tr>
+  
+  <tr>
+      <td>
+        <img align="left" width="700" height="400" src="../images/08_TCSVT.png"/>
+      </td>
+      <td>
+        <p style="text-align: justify">
+        Yi Luo, <b>Feng Shao</b>, Baoyang Mu, Hangwei Chen, Zhuo Li, Qiuping Jiang. Dynamic Weighted Fusion and Progressive Refinement Network for Visible-Depth-Thermal Salient Object Detection, IEEE Transactions on Circuits and Systems for Video Technology, vol. 34, no. 11, pp. 10662-10677, Nov. 2024.
+        <a href="https://ieeexplore.ieee.org/abstract/document/10556617/">[Paper-Link]</a>
+        </p>
+      </td>
+  </tr>
+  
+   <tr>
+      <td>
+        <img align="left" width="700" height="400" src="../images/09_TCSVT.png"/>
+      </td>
+      <td>
+        <p style="text-align: justify">
+       Hangwei Chen, <b>Feng Shao</b>, Xiongli Chai, Yuese Gu, Qiuping Jiang, Xiangchao Meng, Yo-Sung Ho. Quality Evaluation of Arbitrary Style Transfer: Subjective Study and Objective Metric, IEEE Transactions on Circuits and Systems for Video Technology, 33(7): 3055-3070, July 2023. 
+        <a href="https://ieeexplore.ieee.org/document/9994780">[Paper-Link]</a>
+        </p>
+      </td>
+  </tr>
+  
+   <tr>
+      <td>
+        <img align="left" width="700" height="400" src="../images/10_TCSVT.png"/>
+      </td>
+      <td>
+        <p style="text-align: justify">
+        Zhengxuan Xie, <b>Feng Shao</b>, Gang Chen, Hangwei Chen, Qiuping Jiang, Xiangchao Meng, Yo-Sung Ho. Cross-Modality Double Bidirectional Interaction and Fusion Network for RGB-T Salient Object Detection, IEEE Transactions on Circuits and Systems for Video Technology, 33(8): 4149-4163, Aug. 2023. 
+        <a href="https://ieeexplore.ieee.org/document/10032588/">[Paper-Link]</a>
+        </p>
+      </td>
+  </tr>
+  
 </table>
 
 <p>For more papers, please kindly refer to <a href="https://scholar.google.com/citations?hl=zh-CN&user=n0xnWAoAAAAJ" target="_blank">my Google Scholar page</a>.</p>
