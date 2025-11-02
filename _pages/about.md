@@ -56,7 +56,7 @@ Artificial Intelligence Applications
 <table align="center" border="none">
   <tr>
       <td>
-        <img align="left" width="700" height="400" src="./images/01_TNNLS.png"/>
+        <img align="left" width="700" height="400" src="../images/01_TNNLS.png"/>
       </td>
       <td>
         <p style="text-align: justify">
@@ -67,7 +67,7 @@ Artificial Intelligence Applications
   </tr>
   <tr>
       <td>
-        <img align="left" width="700" height="400" src="./images/02_IOTJ.png"/>
+        <img align="left" width="700" height="400" src="../images/02_IOTJ.png"/>
       </td>
       <td>
         <p style="text-align: justify">
@@ -78,7 +78,7 @@ Artificial Intelligence Applications
   </tr>
   <tr>
       <td>
-        <img align="left" width="700" height="400" src="./images/03_TOS.png"/>
+        <img align="left" width="700" height="400" src="../images/03_TOS.png"/>
       </td>
       <td>
         <p style="text-align: justify">
@@ -89,7 +89,7 @@ Artificial Intelligence Applications
   </tr>
   <tr>
       <td>
-        <img align="left" width="700" height="400" src="./images/04_TIM.png"/>
+        <img align="left" width="700" height="400" src="../images/04_TIM.png"/>
       </td>
       <td>
         <p style="text-align: justify">
@@ -103,7 +103,7 @@ Artificial Intelligence Applications
 <table align="center" border="none">
   <tr>
       <td>
-        <img align="left" width="700" height="400" src="./images/05_TMM.png"/>
+        <img align="left" width="700" height="400" src="../images/05_TMM.png"/>
       </td>
       <td>
         <p style="text-align: justify">
@@ -114,7 +114,7 @@ Artificial Intelligence Applications
   </tr>
   <tr>
       <td>
-        <img align="left" width="700" height="400" src="./images/06_TMM.png"/>
+        <img align="left" width="700" height="400" src="../images/06_TMM.png"/>
       </td>
       <td>
         <p style="text-align: justify">
@@ -125,7 +125,7 @@ Artificial Intelligence Applications
   </tr>
   <tr>
       <td>
-        <img align="left" width="700" height="400" src="./images/07_TGRS.png"/>
+        <img align="left" width="700" height="400" src="../images/07_TGRS.png"/>
       </td>
       <td>
         <p style="text-align: justify">
@@ -136,7 +136,7 @@ Artificial Intelligence Applications
   </tr>
   <tr>
       <td>
-        <img align="left" width="700" height="400" src="./images/08_TCSVT.png"/>
+        <img align="left" width="700" height="400" src="../images/08_TCSVT.png"/>
       </td>
       <td>
         <p style="text-align: justify">
@@ -147,7 +147,7 @@ Artificial Intelligence Applications
   </tr>
    <tr>
       <td>
-        <img align="left" width="700" height="400" src="./images/09_TCSVT.png"/>
+        <img align="left" width="700" height="400" src="../images/09_TCSVT.png"/>
       </td>
       <td>
         <p style="text-align: justify">
@@ -158,7 +158,7 @@ Artificial Intelligence Applications
   </tr>
    <tr>
       <td>
-        <img align="left" width="700" height="400" src="./images/10_TCSVT.png"/>
+        <img align="left" width="700" height="400" src="../images/10_TCSVT.png"/>
       </td>
       <td>
         <p style="text-align: justify">
